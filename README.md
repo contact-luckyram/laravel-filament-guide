@@ -153,7 +153,8 @@ Refresh `/admin` and a **Medicines** menu appears with search, sorting, badges a
 
 ## See it in a real project
 
-**[pharmacy-inventory-filament](https://github.com/contact-luckyram/pharmacy-inventory-filament)** — a full pharmacy inventory and billing panel built with Filament 5 ([live demo](https://medistock-xiyz.onrender.com/admin)).
+- **[pharmacy-inventory-filament](https://github.com/contact-luckyram/pharmacy-inventory-filament)** — a full pharmacy inventory and billing panel built with Filament 5.
+- **[hiredesk-ats](https://github.com/contact-luckyram/hiredesk-ats)** — an applicant tracking and onboarding system built with Filament 5 ([live demo](https://hiredesk-ats.onrender.com)).
 
 ## References
 
